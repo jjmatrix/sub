@@ -1,0 +1,37 @@
+
+** 2017-07-06 11:07:03.670973 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-tags', '', '-v', '-o', 'gosublime.margo_r17.03.05-1_go?.exe', 'disposa.blue/cmd/margo']`
+stdout: `
+
+`
+stderr: `
+
+`
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2017-07-06 11:07:03.681434 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "grpc-gateway/helloworld"
+Gocode pkg: "grpc-gateway/gateway"
+Gocode pkg: "grpc-gateway/gateway"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "grpc-gateway/gateway"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "grpc-gateway/gateway"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "grpc-gateway/gateway"
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64:/Users/matrix/Documents/project/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go:/Users/matrix/Documents/project/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/local/go/pkg/darwin_amd64:/Users/matrix/Documents/lib/go/pkg/darwin_amd64", GOOS:"darwin", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/local/go", GOPATH:"/Users/matrix/Documents/lib/go", InstallSuffix:""}

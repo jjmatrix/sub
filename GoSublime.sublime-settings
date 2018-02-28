@@ -1,0 +1,6 @@
+{
+  "env": {
+    "GOPATH": "/Users/matrix/Documents/lib/go"
+  },
+  "fmt_cmd": ["goimports"]
+}

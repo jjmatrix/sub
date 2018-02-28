@@ -1,0 +1,48 @@
+{
+	"9o.hist./Users/matrix/Documents/project/go/helloworld":
+	[
+		"go build helloworld",
+		"help",
+		"go build",
+		"./go build helloworld",
+		"./helloworld"
+	],
+	"9o.hist./Users/matrix/Documents/project/go/src/grpc-gateway":
+	[
+		"cd lendRule",
+		"cd gateway"
+	],
+	"9o.hist./Users/matrix/Documents/project/go/src/grpc-gateway/gateway":
+	[
+		"go run",
+		"GoSublime r17.08.23-1 9o: type `help` for help and command documentation\n\n[ `go build` | done: 233.166502ms ]\n\t/Users/matrix/go/src/github.com/grpc-ecosystem/grpc-gateway/runtime/context.go:11:2: cannot find package \"golang.org/x/net/context\" in any of:\n\t\t/usr/local/go/src/golang.org/x/net/context (from $GOROOT)\n\t\t/Users/matrix/go/src/golang.org/x/net/context (from $GOPATH)\n\tmain.go:7:2: cannot find package \"google.golang.org/grpc\" in any of:\n\t\t/usr/local/go/src/google.golang.org/grpc (from $GOROOT)\n\t\t/Users/matrix/go/src/google.golang.org/grpc (from $GOPATH)\n\t/Users/matrix/go/src/github.com/grpc-ecosystem/grpc-gateway/runtime/context.go:12:2: cannot find package \"google.golang.org/grpc/codes\" in any of:\n\t\t/usr/local/go/src/google.golang.org/grpc/codes (from $GOROOT)\n\t\t/Users/matrix/go/src/google.golang.org/grpc/codes (from $GOPATH)\n\t/Users/matrix/go/src/github.com/grpc-ecosystem/grpc-gateway/runtime/context.go:13:2: cannot find package \"google.golang.org/grpc/grpclog\" in any of:\n\t\t/usr/local/go/src/google.golang.org/grpc/grpclog (from $GOROOT)\n\t\t/Users/matrix/go/src/google.golang.org/grpc/grpclog (from $GOPATH)\n\t/Users/matrix/go/src/github.com/grpc-ecosystem/grpc-gateway/runtime/context.go:14:2: cannot find package \"google.golang.org/grpc/metadata\" in any of:\n\t\t/usr/local/go/src/google.golang.org/grpc/metadata (from $GOROOT)\n\t\t/Users/matrix/go/src/google.golang.org/grpc/metadata (from $GOPATH)\n\t/Users/matrix/go/src/github.com/grpc-ecosystem/grpc-gateway/runtime/context.go:15:2: cannot find package \"google.golang.org/grpc/status\" in any of:\n\t\t/usr/local/go/src/google.golang.org/grpc/status (from $GOROOT)\n\t\t/Users/matrix/go/src/google.golang.org/grpc/status (from $GOPATH)\n\tmain.go:8:2: cannot find package \"grpc-helloworld-gateway/helloworld\" in any of:\n\t\t/usr/local/go/src/grpc-helloworld-gateway/helloworld (from $GOROOT)\n\t\t/Users/matrix/go/src/grpc-helloworld-gateway/helloworld (from $GOPATH)\n\t\n\texit status 1\n[ `go run` | done: 59.783416ms ]\n\tgo run: no go files listed\n\t\n\texit status 1\n[ ~/Documents/project/go/src/grpc-gateway/gateway/ ] #",
+		"go version",
+		"go get google.golang.org/grpc",
+		"cd ..",
+		"go -u get golang.org/x/net/context",
+		"go get -u golang.org/x/net/context",
+		"source ~/.profiel",
+		"source ~/.profile",
+		"echo $GOROOT",
+		"echo $GOPATH",
+		"go get -u golang.org/x/text",
+		"go get -u golang.org/x/text/secure/bidirule",
+		"go build",
+		"kill 42761",
+		"kill 976",
+		"kill 4664",
+		"l's",
+		"ls",
+		"./gateway",
+		"ps -ef|grep ./gateway",
+		"kill 99880",
+		"ps -ef|grep gateway"
+	],
+	"9o.hist./Users/matrix/Documents/project/go/src/grpc-gateway/lendRule":
+	[
+		"cd .."
+	],
+	"ann": "a18.02.09-1",
+	"install_version": "r18.01.17-1",
+	"version": "r18.01.17-1"
+}
